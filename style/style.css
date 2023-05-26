@@ -1,0 +1,21 @@
+*{ 
+    box-sizing: border-box;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: #eee;
+}
+
+.container{
+    padding: 40px 0;
+    background: #ccc;
+    margin: 0 auto ;
+    width: 700px;
+    border-radius: 5px;
+
+}
